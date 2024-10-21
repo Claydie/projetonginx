@@ -5,7 +5,7 @@
 
 Principal Objetivo é monitorar o serviço NGINX a cada 5 minutos em uma máquina Linux, no WSL. Esta atividade foi feita no Ubuntu 24.04. 
 
-### Intrução de instalação do wsl! 
+### Instrução de instalação do wsl! 
 •	Clique no botão do Windows, digite Powershell e execute o programa. Você deve ver uma interface de linha de comando.
 •	Primeiro vamos ver as versões disponíveis. Digite wsl --list --online e aperte enter. Vai aparecer uma lista das distribuições Linux na loja online.
 •	Queremos uma versão do Ubuntu superior ao 20.04, como requisitado na atividade. Digite e execute wsl --install Ubuntu-24.04 ou a versão desejada
